@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Notes",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "01 Resources/Attachments",
+  "vimMode": false,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
+}

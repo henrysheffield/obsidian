@@ -1,0 +1,1109 @@
+{
+  "settingsVersion": "1.14.0",
+  "highlightColor": "#ffd700",
+  "sidebarPosition": "right",
+  "highlights": {
+    "00 Notes/Alpha Radiation.md": [],
+    "00 Notes/Arrhenius Acid.md": [
+      {
+        "id": "6dg84d84e",
+        "text": "a substance that dissociates in water to increase the concentration of hydrogen ions",
+        "tags": [],
+        "line": 32,
+        "startOffset": 954,
+        "endOffset": 1042,
+        "filePath": "00 Notes/Arrhenius Acid.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782296663673,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Becquerel (Bq).md": [
+      {
+        "id": "y19kkpdo0",
+        "text": "the International System of Units (SI) derived unit of radioactivity",
+        "tags": [],
+        "line": 44,
+        "startOffset": 1426,
+        "endOffset": 1498,
+        "filePath": "00 Notes/Becquerel (Bq).md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780807253706,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Beta Radiation.md": [],
+    "00 Notes/Book 2 - Annotations - Meditations.md": [
+      {
+        "id": "ccwfdo2vo",
+        "text": "Say to yourself first thing in the morning: today I shall meet people who are meddling, ungrateful, aggressive, treacherous, malicious, unsocial … Therefore I cannot be harmed by any of them",
+        "tags": [],
+        "line": 12,
+        "startOffset": 1138,
+        "endOffset": 1332,
+        "filePath": "00 Notes/Book 2 - Annotations - Meditations.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781255264711,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Book Note-Taking Framework.md": [
+      {
+        "id": "jf53xii2i",
+        "text": "**Card Anatomy:** Every extracted note must have:",
+        "tags": [],
+        "line": 49,
+        "startOffset": 1317,
+        "endOffset": 1370,
+        "filePath": "00 Notes/Book Note-Taking Framework.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782165351399,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Boyle's Law.md": [
+      {
+        "id": "lrlqzydq4",
+        "text": "Volume is inversely proportional to Pressure",
+        "tags": [],
+        "line": 25,
+        "startOffset": 340,
+        "endOffset": 388,
+        "filePath": "00 Notes/Boyle's Law.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782297138642,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Budj Bim Cultural Landscape.md": [
+      {
+        "id": "hyyy1r3fg",
+        "text": "6,600 years**.",
+        "tags": [],
+        "line": 16,
+        "startOffset": 303,
+        "endOffset": 321,
+        "filePath": "00 Notes/Budj Bim Cultural Landscape.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782165178061,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "2qtuz6bis",
+        "text": "Gunditjmara",
+        "tags": [],
+        "line": 18,
+        "startOffset": 336,
+        "endOffset": 351,
+        "filePath": "00 Notes/Budj Bim Cultural Landscape.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782165178094,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "igfnlz2wy",
+        "text": "hunting eels (*Anguilla australis)*",
+        "tags": [],
+        "line": 20,
+        "startOffset": 514,
+        "endOffset": 553,
+        "filePath": "00 Notes/Budj Bim Cultural Landscape.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782165178272,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "xu8aea9y5",
+        "text": "(**societal impact**)",
+        "tags": [],
+        "line": 22,
+        "startOffset": 588,
+        "endOffset": 613,
+        "filePath": "00 Notes/Budj Bim Cultural Landscape.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782165178346,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Dipole-Dipole Forces.md": [
+      {
+        "id": "v5f4jezn5",
+        "text": "attractive electrostatic interactions between polar molecules, where the partial positive end of one molecule aligns with the partial negative end of another",
+        "tags": [],
+        "line": 58,
+        "startOffset": 2326,
+        "endOffset": 2487,
+        "filePath": "00 Notes/Dipole-Dipole Forces.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780188194167,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/How to Reduce Nighttime Urination.md": [
+      {
+        "id": "1y875v2kq",
+        "text": "05:45 - 15:45 or 5:45 AM - 3:45 PM)",
+        "tags": [],
+        "line": 22,
+        "startOffset": 725,
+        "endOffset": 764,
+        "filePath": "00 Notes/How to Reduce Nighttime Urination.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781677798870,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "7l2us4g0z",
+        "text": "consume your water in the first 10 hours",
+        "tags": [],
+        "line": 29,
+        "startOffset": 1004,
+        "endOffset": 1048,
+        "filePath": "00 Notes/How to Reduce Nighttime Urination.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781677798149,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "ak2z2fl2f",
+        "text": "5 - 8 ounces (150 - 230 mL)",
+        "tags": [],
+        "line": 30,
+        "startOffset": 1091,
+        "endOffset": 1122,
+        "filePath": "00 Notes/How to Reduce Nighttime Urination.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781677798236,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/How to wake up early (without snoozing).md": [
+      {
+        "id": "5s6ne0r5o",
+        "text": "Smile!",
+        "tags": [],
+        "line": 64,
+        "startOffset": 1175,
+        "endOffset": 1185,
+        "filePath": "00 Notes/How to wake up early (without snoozing).md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781766438223,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Hydrogen Bonding.md": [],
+    "00 Notes/I learnt a system for remembering everything (from books).md": [
+      {
+        "id": "vn1x9aqka",
+        "text": "Review review review",
+        "tags": [],
+        "line": 24,
+        "startOffset": 768,
+        "endOffset": 792,
+        "filePath": "00 Notes/I learnt a system for remembering everything (from books).md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781918838832,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Keeping Teeth White.md": [
+      {
+        "id": "5919t9w6a",
+        "text": "never brush your teeth right after eating",
+        "tags": [],
+        "line": 14,
+        "startOffset": 270,
+        "endOffset": 315,
+        "filePath": "00 Notes/Keeping Teeth White.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780567019031,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "6ufmhnmws",
+        "text": "fluoride toothpaste",
+        "tags": [],
+        "line": 14,
+        "startOffset": 324,
+        "endOffset": 347,
+        "filePath": "00 Notes/Keeping Teeth White.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780567019085,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "ixteqv675",
+        "text": "Wash your mouth after eating foods that stain (e.g. coffee, tea)",
+        "tags": [],
+        "line": 25,
+        "startOffset": 652,
+        "endOffset": 720,
+        "filePath": "00 Notes/Keeping Teeth White.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780567019413,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "8p8grv3t1",
+        "text": "immediately",
+        "tags": [],
+        "line": 48,
+        "startOffset": 1719,
+        "endOffset": 1734,
+        "filePath": "00 Notes/Keeping Teeth White.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780567019480,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Meditations - Annotations.md": [
+      {
+        "id": "z60tr2wiz",
+        "text": "Never regard as a benefit to yourself anything … to hate, suspect or curse another",
+        "tags": [],
+        "line": 18,
+        "startOffset": 2244,
+        "endOffset": 2330,
+        "filePath": "00 Notes/Meditations - Annotations.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781646746546,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "xs0sos5nb",
+        "text": "he has no quarrel with any of them and no diversion from the road",
+        "tags": [],
+        "line": 23,
+        "startOffset": 4359,
+        "endOffset": 4428,
+        "filePath": "00 Notes/Meditations - Annotations.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781646746661,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "a0p6aytwf",
+        "text": "Remove the judgement, and you have removed the though ‘I am hurt’: remove the thought ‘I am hurt’, and the hurt itself is removed.",
+        "tags": [],
+        "line": 29,
+        "startOffset": 6897,
+        "endOffset": 7031,
+        "filePath": "00 Notes/Meditations - Annotations.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781646747199,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "2qhrhywfx",
+        "text": "Note: learn what some of these words mean",
+        "tags": [],
+        "line": 31,
+        "startOffset": 8040,
+        "endOffset": 8085,
+        "filePath": "00 Notes/Meditations - Annotations.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781646746342,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "b5fcliaa9",
+        "text": "Analyse further",
+        "tags": [],
+        "line": 34,
+        "startOffset": 9361,
+        "endOffset": 9380,
+        "filePath": "00 Notes/Meditations - Annotations.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781646746663,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Mini Essays - The Perfect Tool for Lifelong Learners.md": [
+      {
+        "id": "y3zu91exa",
+        "text": "(CRUCIAL)",
+        "tags": [],
+        "line": 33,
+        "startOffset": 1186,
+        "endOffset": 1199,
+        "filePath": "00 Notes/Mini Essays - The Perfect Tool for Lifelong Learners.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781778923555,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Never regard something as a benefit to you.md": [
+      {
+        "id": "tn5v0gme8",
+        "text": "* analyse further",
+        "tags": [],
+        "line": 18,
+        "startOffset": 472,
+        "endOffset": 493,
+        "filePath": "00 Notes/Never regard something as a benefit to you.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782165530343,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Quote Grammar.md": [
+      {
+        "id": "47z8w2bhg",
+        "text": ",",
+        "tags": [],
+        "line": 27,
+        "startOffset": 862,
+        "endOffset": 867,
+        "filePath": "00 Notes/Quote Grammar.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781863333101,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "r0i4gin0f",
+        "text": ".",
+        "tags": [],
+        "line": 27,
+        "startOffset": 878,
+        "endOffset": 883,
+        "filePath": "00 Notes/Quote Grammar.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781863333117,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "5tc0kyoj1",
+        "text": "”",
+        "tags": [],
+        "line": 28,
+        "startOffset": 959,
+        "endOffset": 964,
+        "filePath": "00 Notes/Quote Grammar.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781863333198,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "if5b0x43v",
+        "text": ".”",
+        "tags": [],
+        "line": 28,
+        "startOffset": 974,
+        "endOffset": 980,
+        "filePath": "00 Notes/Quote Grammar.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781863333213,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "8363bokq8",
+        "text": ",",
+        "tags": [],
+        "line": 29,
+        "startOffset": 1036,
+        "endOffset": 1041,
+        "filePath": "00 Notes/Quote Grammar.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1781863332275,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Radioisotope.md": [
+      {
+        "id": "9gl6e09kp",
+        "text": "an unstable version of a chemical element that releases radiation—such as alpha, beta, or gamma rays—as it decays to become more stable",
+        "tags": [],
+        "line": 34,
+        "startOffset": 995,
+        "endOffset": 1134,
+        "filePath": "00 Notes/Radioisotope.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780567614901,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Sine.md": [
+      {
+        "id": "x781uf24p",
+        "text": "SOH",
+        "tags": [],
+        "line": 25,
+        "startOffset": 620,
+        "endOffset": 627,
+        "filePath": "00 Notes/Sine.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782118096929,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Stoicism Become Undefeatable.md": [
+      {
+        "id": "3pjajnu36",
+        "text": "He recongised that wasting energy protesting unchangeable reality was futile",
+        "tags": [],
+        "line": 23,
+        "startOffset": 780,
+        "endOffset": 860,
+        "filePath": "00 Notes/Stoicism Become Undefeatable.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782297105438,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md": [
+      {
+        "id": "v00x68bzr",
+        "text": "de la troisième à la sixième minute.",
+        "tags": [],
+        "line": 43,
+        "startOffset": 1434,
+        "endOffset": 1474,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541498,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "riia3ye9y",
+        "text": "sur lequel",
+        "tags": [],
+        "line": 45,
+        "startOffset": 1584,
+        "endOffset": 1598,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541648,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "i7md2ap4t",
+        "text": "tente",
+        "tags": [],
+        "line": 45,
+        "startOffset": 1606,
+        "endOffset": 1615,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541670,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "o1crglshl",
+        "text": "catégoriquement",
+        "tags": [],
+        "line": 45,
+        "startOffset": 1736,
+        "endOffset": 1755,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541800,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "ikeixd71h",
+        "text": "la capacité de l'Iran à lancer des **frappes de missiles",
+        "tags": [],
+        "line": 47,
+        "startOffset": 2061,
+        "endOffset": 2121,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541125,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "b33pge489",
+        "text": "espèrent l'instauration d'un **nouveau régime",
+        "tags": [],
+        "line": 49,
+        "startOffset": 2248,
+        "endOffset": 2297,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541312,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "wfbs5ef8s",
+        "text": "envers",
+        "tags": [],
+        "line": 49,
+        "startOffset": 2332,
+        "endOffset": 2342,
+        "filePath": "00 Notes/Trump vient sûrement de faire la plus grosse erreur de sa présidence.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1776372541396,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Twelve Angry Men Quotes.md": [
+      {
+        "id": "cb1tgi1ya",
+        "text": "- Juxtaposition of a tiny time frame of “5 minutes” and “someone’s life” cause deep realisation of the severity of this case",
+        "tags": [],
+        "line": 36,
+        "startOffset": 1053,
+        "endOffset": 1181,
+        "filePath": "00 Notes/Twelve Angry Men Quotes.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1782296405313,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/We cannot control the past.md": [
+      {
+        "id": "c3rb6bl2o",
+        "text": "We can, and should learn from it.”",
+        "tags": [],
+        "line": 11,
+        "startOffset": 282,
+        "endOffset": 320,
+        "filePath": "00 Notes/We cannot control the past.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Very crucial part of the past, we must always learn from our mistakes to improve."
+        ],
+        "createdAt": 1782729477766,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/how to take notes like the top 1% of students.md": [
+      {
+        "id": "xw68mfmf0",
+        "text": "Do not copy words one-for-one",
+        "tags": [],
+        "line": 27,
+        "startOffset": 847,
+        "endOffset": 880,
+        "filePath": "00 Notes/how to take notes like the top 1% of students.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780807122912,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "u467q5814",
+        "text": "write it down immediately",
+        "tags": [],
+        "line": 32,
+        "startOffset": 1084,
+        "endOffset": 1113,
+        "filePath": "00 Notes/how to take notes like the top 1% of students.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780807122149,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "ore1osbae",
+        "text": "immediately",
+        "tags": [],
+        "line": 39,
+        "startOffset": 1644,
+        "endOffset": 1659,
+        "filePath": "00 Notes/how to take notes like the top 1% of students.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1780807122709,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Mini Essay - Nietzsche & Frankl.md": [
+      {
+        "id": "gtitoyxt0",
+        "text": "notion of reason",
+        "tags": [],
+        "line": 16,
+        "startOffset": 345,
+        "endOffset": 365,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Vague, doesn’t make sense, change to: ‘personal purpose’"
+        ],
+        "createdAt": 1783574621833,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "qfleaqtkg",
+        "text": "life",
+        "tags": [],
+        "line": 16,
+        "startOffset": 397,
+        "endOffset": 405,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Better: human survival (sounds more serious and is true)"
+        ],
+        "createdAt": 1783574707685,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "c4q895l1n",
+        "text": "Frankl often was comforted by Nietzsche",
+        "tags": [],
+        "line": 16,
+        "startOffset": 484,
+        "endOffset": 527,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "You can make this better for a better intro before the analysis: Frankl modernises Nietzschean philosophy"
+        ],
+        "createdAt": 1783574486904,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "pqbjc20a9",
+        "text": "who",
+        "tags": [],
+        "line": 16,
+        "startOffset": 533,
+        "endOffset": 540,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Grammatical error, the word ‘who’ before a quote creates an incomplete, broken sentence structure. Fix: Smooth out introduction to the quote so it seamlessly blends with your essay."
+        ],
+        "createdAt": 1783574243280,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "w6xa5jzu9",
+        "text": "cigarette",
+        "tags": [],
+        "line": 16,
+        "startOffset": 806,
+        "endOffset": 819,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "What is the significance of the cigarette? Explain and **analyse**. e,g, ‘the cigarette serves as a grim symbol of … (loss of hope, death, giving up)’"
+        ],
+        "createdAt": 1783574560143,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "7x2dfv7wl",
+        "text": "so uncommon",
+        "tags": [],
+        "line": 16,
+        "startOffset": 838,
+        "endOffset": 853,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Better: ‘–a rare act of self indulgence that served as a grim manifestation of submission’"
+        ],
+        "createdAt": 1783574808123,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "wuz07jvju",
+        "text": ",",
+        "tags": [],
+        "line": 16,
+        "startOffset": 858,
+        "endOffset": 863,
+        "filePath": "00 Notes/Mini Essay - Nietzsche & Frankl.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Grammar: Change to a semi colon or a period (; or .) because these are two independent clauses"
+        ],
+        "createdAt": 1783574808139,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Your goal is to listen.md": [
+      {
+        "id": "sjw1wgsfa",
+        "text": ";",
+        "tags": [],
+        "line": 15,
+        "startOffset": 284,
+        "endOffset": 289,
+        "filePath": "00 Notes/Your goal is to listen.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Grammar: This must be a semicolon, not a comma because they are two independent clauses"
+        ],
+        "createdAt": 1784341971678,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "o6r4gc4dp",
+        "text": "contradiction",
+        "tags": [],
+        "line": 15,
+        "startOffset": 866,
+        "endOffset": 883,
+        "filePath": "00 Notes/Your goal is to listen.md",
+        "footnoteCount": 2,
+        "footnoteContents": [
+          "Improvement: Analyse *what* this contradiction is and *why* it is important.",
+          "AI Example: *\"While Epictetus’ mandate to 'say what is only necessary' initially appears to advocate for absolute silence, it actually demands a calculated economy of speech. True Stoic respect is not passive withdrawal, but rather a deliberate restriction of one's own ego to create a space where the other speaker can flourish.\"*"
+        ],
+        "createdAt": 1784341971267,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "cx84vqm1a",
+        "text": "In the real world",
+        "tags": [],
+        "line": 15,
+        "startOffset": 977,
+        "endOffset": 998,
+        "filePath": "00 Notes/Your goal is to listen.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Better: *When practically applied to social dynamics / Applying this concept into active conversation …*"
+        ],
+        "createdAt": 1784341971374,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "41xbhod4y",
+        "text": "conversation moving",
+        "tags": [],
+        "line": 15,
+        "startOffset": 1323,
+        "endOffset": 1346,
+        "filePath": "00 Notes/Your goal is to listen.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Again: Aim for more sophisticated and powerful vocab: *Maintains the conversation momentum / Continues the conversation*"
+        ],
+        "createdAt": 1784342465245,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "99ascv6xk",
+        "text": "tremendous respect",
+        "tags": [],
+        "line": 15,
+        "startOffset": 1430,
+        "endOffset": 1452,
+        "filePath": "00 Notes/Your goal is to listen.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Better: *fosters a profound sense of respect*"
+        ],
+        "createdAt": 1784342410810,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "6ghiloxkg",
+        "text": "everyday conversation.",
+        "tags": [],
+        "line": 15,
+        "startOffset": 1470,
+        "endOffset": 1496,
+        "filePath": "00 Notes/Your goal is to listen.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "A great link to finish off is to convince the reader of the importance of this strategy."
+        ],
+        "createdAt": 1784341971851,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Human life is so valuable.md": [
+      {
+        "id": "kqg3m3o4r",
+        "text": "us",
+        "tags": [],
+        "line": 24,
+        "startOffset": 526,
+        "endOffset": 532,
+        "filePath": "00 Notes/Human life is so valuable.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Crucial: Shift away from personal voices (us, wForne). → Frankl invites **readers** to contemplate / Frankl demonstrates that **human society** …"
+        ],
+        "createdAt": 1784944313013,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "6ydempyj6",
+        "text": "we can make the most of life",
+        "tags": [],
+        "line": 24,
+        "startOffset": 1194,
+        "endOffset": 1226,
+        "filePath": "00 Notes/Human life is so valuable.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "**Change of essay topic you must do:** Focus entirely on how Frank **constructs meaning** - Focus on how Frankl’s descriptions / narrative choices convey these themes rather than offering advice on how people should live"
+        ],
+        "createdAt": 1784944389958,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "00 Notes/Contention.md": [],
+    "00 Notes/Annoying everyone at a cinema near you - Plan.md": [
+      {
+        "id": "opyl8vdw3",
+        "text": "**Contention**",
+        "tags": [],
+        "line": 16,
+        "startOffset": 210,
+        "endOffset": 228,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785539122789,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "nko8252yd",
+        "text": "[^2]\n\n",
+        "tags": [],
+        "line": 16,
+        "startOffset": 463,
+        "endOffset": 473,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785551463418,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "laxmlufrn",
+        "text": "[^4] Maddox ",
+        "tags": [],
+        "line": 18,
+        "startOffset": 495,
+        "endOffset": 511,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785551179255,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "ijhqqu3pm",
+        "text": "[^3] that the inconsiderate actions of others ruin the pleasure of visiting the cinema.  \n\n**Improved Topic Sentence**\n\n*Maddox ",
+        "tags": [],
+        "line": 18,
+        "startOffset": 517,
+        "endOffset": 649,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785551586459,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "5r9qtxrs1",
+        "text": "[^5] that the inconsiderate actions of others ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 671,
+        "endOffset": 721,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785551179429,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "tansu6oru",
+        "text": "[^6] how such actions disrupt the communal pleasure of visiting the cinema.*\n\n“she would carefully go to work” - meticulous actions → self absorption\n“knitted with a constant click-click-click” - onomatopoeia → auditory irritation\n“hissers who rise up like serpents” - simile; dramatise disruption\n\n**P2 Topic Sentence:** ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 731,
+        "endOffset": 1057,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785551179489,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "og0yfctuk",
+        "text": "[^7]\n\n*Maddox incorportates statistics and a hypothetical scenario to highlight the growing prevalence of digital distractions in cinemas*\n\nstatistics → credibility; scale\n“55 percent of cinemagoers texted during a movie” - Massive amount, contributes to ",
+        "tags": [],
+        "line": 28,
+        "startOffset": 1116,
+        "endOffset": 1375,
+        "filePath": "00 Notes/Annoying everyone at a cinema near you - Plan.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1785551178874,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ]
+  },
+  "collections": {},
+  "groupingMode": "none",
+  "taskSecondaryGroupingMode": "none",
+  "sortMode": "none",
+  "tabSettings": {
+    "current": {
+      "groupingMode": "none",
+      "sortMode": "none",
+      "commentsExpanded": true,
+      "searchExpanded": false,
+      "selectedTags": [],
+      "selectedCollections": [],
+      "selectedSpecialFilters": []
+    }
+  },
+  "showFilenames": true,
+  "showTimestamps": true,
+  "showHighlightActions": true,
+  "showToolbar": true,
+  "autoToggleFold": false,
+  "useInlineFootnotes": false,
+  "selectTextOnCommentClick": false,
+  "excludeExcalidraw": true,
+  "excludedFiles": [],
+  "fileFilters": [],
+  "fileFilterMode": "exclude",
+  "dateFormat": "YYYY-MM-DD HH:mm",
+  "minimumCharacterCount": 0,
+  "highlightFontSize": 11,
+  "detailsFontSize": 11,
+  "commentFontSize": 11,
+  "highlightFontWeight": 400,
+  "taskFontWeight": 400,
+  "detectHtmlComments": false,
+  "detectAdjacentNativeComments": true,
+  "customPatterns": [],
+  "customColors": {
+    "yellow": "#ffd700",
+    "red": "#ff6b6b",
+    "teal": "#4ecdc4",
+    "blue": "#45b7d1",
+    "green": "#96ceb4"
+  },
+  "customColorNames": {
+    "yellow": "",
+    "red": "",
+    "teal": "",
+    "blue": "",
+    "green": ""
+  },
+  "showCurrentNoteTab": true,
+  "showAllNotesTab": true,
+  "showCollectionsTab": true,
+  "showTasksTab": false,
+  "showCompletedTasks": true,
+  "showTaskContext": true,
+  "taskDateFormat": "YYYY-MM-DD",
+  "showCurrentNoteTasksSection": true,
+  "showOnlyCurrentNoteTasks": false,
+  "displayModes": [],
+  "currentDisplayModeId": null
+}

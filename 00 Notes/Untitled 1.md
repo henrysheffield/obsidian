@@ -1,0 +1,1 @@
+An antibody is a Y-shaped protein that your body makes to defend against pathogens. They are highly specific, meaning they will only prevent a specific strand of a virus.
